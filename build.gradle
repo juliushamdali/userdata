@@ -16,7 +16,7 @@ apply plugin: 'application'
 
 group 'com.smat'
 version '0.0.1'
-mainClassName = "io.ktor.server.netty.EngineMain"
+//mainClassName = "io.ktor.server.netty.EngineMain"
 mainClassName = 'com.smat.userdata.ApplicationKt'
 task stage {
     dependsOn installDist
