@@ -1,1 +1,1 @@
-web: .\build\install\UserData\bin\userdata
+web: ./build/install/userdata/bin/userdata`
