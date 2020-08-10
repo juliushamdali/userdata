@@ -1,1 +1,1 @@
-web: java -jar build/libs/userdata.jar
+web: ./build/install/userdata/bin/userdata
